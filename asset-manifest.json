@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CRUD_SOFTRIG/static/css/main.6579664c.chunk.css",
+    "main.js": "/CRUD_SOFTRIG/static/js/main.009b93e1.chunk.js",
+    "main.js.map": "/CRUD_SOFTRIG/static/js/main.009b93e1.chunk.js.map",
+    "runtime-main.js": "/CRUD_SOFTRIG/static/js/runtime-main.d6b72558.js",
+    "runtime-main.js.map": "/CRUD_SOFTRIG/static/js/runtime-main.d6b72558.js.map",
+    "static/js/2.a223fbf3.chunk.js": "/CRUD_SOFTRIG/static/js/2.a223fbf3.chunk.js",
+    "static/js/2.a223fbf3.chunk.js.map": "/CRUD_SOFTRIG/static/js/2.a223fbf3.chunk.js.map",
+    "index.html": "/CRUD_SOFTRIG/index.html",
+    "static/css/main.6579664c.chunk.css.map": "/CRUD_SOFTRIG/static/css/main.6579664c.chunk.css.map",
+    "static/js/2.a223fbf3.chunk.js.LICENSE.txt": "/CRUD_SOFTRIG/static/js/2.a223fbf3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CRUD_SOFTRIG/static/media/bg.18463dc7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6b72558.js",
+    "static/js/2.a223fbf3.chunk.js",
+    "static/css/main.6579664c.chunk.css",
+    "static/js/main.009b93e1.chunk.js"
+  ]
+}
